@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1383686515 source:f:\c代码\c源程序\blocks代码库\hello\main.c
+	<stdio.h>
+	<stdlib.h>
+
